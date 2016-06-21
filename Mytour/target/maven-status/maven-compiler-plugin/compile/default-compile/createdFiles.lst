@@ -1,0 +1,10 @@
+mytour\user\entity\Hotel.class
+mytour\user\entity\TinTuc.class
+mytour\user\entity\Tour.class
+mytour\user\entity\HoaDon.class
+mytour\user\entity\Place.class
+mytour\user\entity\DanhMucTour.class
+mytour\user\entity\ChiTietHoaDon.class
+mytour\user\entity\Comment.class
+mytour\user\entity\User.class
+mytour\user\entity\Admin.class
